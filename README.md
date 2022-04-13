@@ -1,0 +1,2 @@
+# firstProject
+Exploring Pages functionalities
